@@ -1,0 +1,11 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|BILDER_TABLET\\bilder
+vti_modifiedby:SR|BILDER_TABLET\\bilder
+vti_timelastmodified:TR|14 Jun 2006 19:58:31 -0000
+vti_timecreated:TR|14 Jun 2006 19:58:13 -0000
+vti_lineageid:SR|{EBEFAC1B-F352-45B6-82C1-20300C8DFC17}
+vti_extenderversion:SR|5.0.2.2623
+vti_backlinkinfo:VX|
+vti_nexttolasttimemodified:TR|14 Jun 2006 19:58:13 -0000
+vti_cacheddtm:TX|14 Jun 2006 19:58:14 -0000
+vti_filesize:IR|925
